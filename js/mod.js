@@ -1,14 +1,14 @@
 let modInfo = {
 	name: "The Tree Tree",
-	id: "mymod",
-	author: "nobody",
-	pointsName: "points",
+	id: "mymodweam9fiwrd",
+	author: "myself yay",
+	pointsName: "trees",
 	modFiles: ["layers.js", "tree.js"],
 
 	discordName: "",
 	discordLink: "",
 	initialStartPoints: new Decimal (10), // Used for hard resets and new players
-	offlineLimit: 1,  // In hours
+	offlineLimit: 0,  // In hours
 }
 
 // Set your version in num and name
@@ -19,8 +19,10 @@ let VERSION = {
 
 let changelog = `<h1>Changelog:</h1><br>
 	<h3>v0.0</h3><br>
-		- Added things.<br>
-		- Added stuff.`
+		- Created the mod.
+		
+	<he>v0.0.1</h3><br>
+		-  Wow, the mod has a name now. The tree tree. Amazing stuff.
 
 let winText = `Congratulations! You have reached the end and beaten this game, but for now...`
 
